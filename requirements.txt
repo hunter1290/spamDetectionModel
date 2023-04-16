@@ -1,0 +1,10 @@
+
+
+# C:\Users\dell\Desktop\temp\app.py: 4,8,14
+nltk == 3.6.6
+
+# C:\Users\dell\Desktop\temp\app.py: 3
+sklearn == 0.0
+
+# C:\Users\dell\Desktop\temp\app.py: 1
+streamlit == 1.14.0
